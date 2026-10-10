@@ -241,6 +241,7 @@ This system is built on:
 * ESP8266 modules
 * DAC/audio hardware (hub side)
 * custom KiCad-designed boards
+* custom designed and 3D-printed controller housing
 
 All hardware files are included in the `hw/` directory.
 
